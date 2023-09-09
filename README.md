@@ -1,5 +1,5 @@
 # Cardiovascular_Disease_Prediction
-In this project, the dataset of ardio_tain.csv is being cleaned and analysed. This dataset is collected from medical examination of various patients to predict the occurrence of cardiovascular disease. It includes information such as age, gender, height, weight, blood pressure and other related information of patient.
+In this project, the dataset of cardio_tain.csv is being cleaned and analysed. This dataset is collected from medical examination of various patients to predict the occurrence of cardiovascular disease. It includes information such as age, gender, height, weight, blood pressure and other related information of patient.
 Data analysis and visualization with the help of python will be performed to get insight from this data.
 
 ![HeartbeatCirculatoryGIF](https://github.com/CodePrin/Cardiovascular_Disease_Prediction/assets/89415614/40ad80b3-0510-44e1-bf1b-d3b7cb99ffcc)
